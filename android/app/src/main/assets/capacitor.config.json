@@ -1,0 +1,8 @@
+{
+  "appId": "CVDavid",
+  "appName": "CVDavid",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
